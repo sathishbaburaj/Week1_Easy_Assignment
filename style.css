@@ -31,7 +31,7 @@ body{
     margin-right: 20px;
     margin-top:10px;
     margin-bottom: 20px;
-    width:45%;
+    width:600px;
     height:300px;
     background: linen;
     float: left;
@@ -79,12 +79,12 @@ body{
 #aside{   
     position: absolute;    
     text-align: center;    
-    left:645px;
+    left:650px;
     top:0px;
     bottom:0px;
-    width:75%;
+    right:-530px;
     padding:10px;    
-    margin-left:5px;
+    margin-left:10px;
     background: linen;
     float: left;
     color:grey;
